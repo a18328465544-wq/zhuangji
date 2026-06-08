@@ -1,0 +1,6 @@
+{
+  "name": "装机人格测试",
+  "description": "测测你到底是哪种装机佬？类似 MBTI 的趣味装机与硬件玩家性格测试。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
